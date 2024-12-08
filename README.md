@@ -24,7 +24,7 @@ Este proyecto es una plataforma de gestión de proyectos colaborativos diseñada
 - /app - Contiene modelos, controladores y lógica del negocio.
 - /routes - Define las rutas API del proyecto.
 - /database - Incluye migraciones y seeders para la base de datos.
-- Frontend
+### Frontend
 - /src/components - Componentes reutilizables de React.
 - /src/pages - Vistas principales (Login, Dashboard, etc.).
 - /src/services - Servicios para la comunicación con la API.
