@@ -3,7 +3,7 @@
 ## Descripción del Proyecto
 Este proyecto es una plataforma de gestión de proyectos colaborativos diseñada para ayudar a equipos de trabajo a organizar, planificar y monitorear el progreso de tareas y proyectos de forma eficiente. La herramienta permite crear proyectos, asignar tareas a miembros del equipo, establecer prioridades y plazos, así como dar seguimiento al avance general y al cumplimiento de objetivos.
 
-##Tecnologías principales:
+## Tecnologías principales:
 
 - Backend: Laravel / Node.js.
 - Frontend: React con Tailwind CSS.
