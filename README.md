@@ -1,5 +1,5 @@
-# CronoSync
-# Gestor de Proyectos Colaborativos
+# CronoSync: Gestor de Proyectos Colaborativos
+
 ## Descripción del Proyecto
 Este proyecto es una plataforma de gestión de proyectos colaborativos diseñada para ayudar a equipos de trabajo a organizar, planificar y monitorear el progreso de tareas y proyectos de forma eficiente. La herramienta permite crear proyectos, asignar tareas a miembros del equipo, establecer prioridades y plazos, así como dar seguimiento al avance general y al cumplimiento de objetivos.
 
