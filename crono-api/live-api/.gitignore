@@ -1,0 +1,64 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+logs/*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Runtime data
+*.swo
+*.swp
+*.swn
+*.bak
+*.tmp
+
+# Coverage directory used by testing tools
+coverage/
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+.env.local
+.env.*.local
+
+# IDE-specific files
+.vscode/
+.idea/
+.DS_Store
+
+# Build outputs
+/dist
+/build
+/out
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional eslint cache
+.eslintcache
+
+# Others
+*.log
